@@ -9,7 +9,6 @@ const randomOperation = (
   }
 };
 
-// Example
 randomOperation(
   (msg) => console.log("✅", msg),
   (err) => console.log("❌", err)
