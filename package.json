@@ -1,0 +1,17 @@
+{
+  "name": "second-week",
+  "version": "1.0.0",
+  "description": "This repository contains TypeScript exercises focused on understanding and implementing callback functions. The assignments progress from foundational concepts to more challenging scenarios involving asynchronous operations and error handling.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
