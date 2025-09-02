@@ -21,7 +21,7 @@ npx tsc --init
 ```
 
 4. Create a file called `challenges.ts`
-5. Copy the starter code from the provided gist: 
+5. Copy the starter code from the provided gist:
    [Challenge Starter Code](https://gist.github.com/mvdgragt/73cd421926bae60f7097e9764b41ebec)
 
 ## 📊 Challenge Levels
@@ -29,21 +29,27 @@ npx tsc --init
 Choose your path based on your current skill level:
 
 ### 🟢 Level 1 (Beginner)
+
 **Challenges 1-5**
+
 - Basic function syntax
 - Simple callbacks
 - Introduction to array methods
 - Fundamental JavaScript concepts
 
-### 🟡 Level 2 (Intermediate) 
+### 🟡 Level 2 (Intermediate)
+
 **Challenges 6-12**
+
 - More complex array methods
 - Callback function composition
 - Intermediate JavaScript patterns
 - Working with multiple data types
 
 ### 🔴 Level 3 (Advanced)
+
 **Challenges 13-24**
+
 - Advanced array method chaining
 - Complex callback scenarios
 - Higher-order functions
@@ -66,12 +72,12 @@ Choose your path based on your current skill level:
 ```typescript
 // ✅ DONE - Challenge 1
 function challenge1() {
-    // Your solution here
+  // Your solution here
 }
 
 // Currently working on...
 function challenge2() {
-    // Your solution here
+  // Your solution here
 }
 ```
 
@@ -95,8 +101,9 @@ npx ts-node challenges.ts
 Keep track of your progress by updating this section:
 
 ### My Progress
-- [ ] Challenges 1-3
-- [ ] Challenges 4-6  
+
+- [x] Challenges 1-3
+- [x] Challenges 4-6
 - [ ] Challenges 7-9
 - [ ] Challenges 10-12
 - [ ] Challenges 13-15
@@ -142,6 +149,7 @@ By completing these challenges, you will:
 ## 🤝 Contributing
 
 Feel free to:
+
 - Add more challenging problems
 - Improve existing solutions
 - Fix bugs or typos
@@ -152,7 +160,7 @@ Feel free to:
 Before submitting:
 
 - [ ] All chosen challenges are completed
-- [ ] Code compiles and runs without errors  
+- [ ] Code compiles and runs without errors
 - [ ] Console outputs match expected results
 - [ ] Progress section is updated
 - [ ] TypeScript types are properly used
